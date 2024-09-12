@@ -1,5 +1,6 @@
 apply plugin: 'com.android.library'
 //apply plugin: 'com.novoda.bintray-release'
+group = 'com.github.mUcHG0Di'
 
 android {
     compileSdkVersion rootProject.ext.compileSdkVersion
